@@ -1,0 +1,19 @@
+{
+  "name": "github-webhook-blog",
+  "version": "1.0.0",
+  "description": "GitHub webhook for blog.",
+  "main": "app.js",
+  "scripts": {
+    "docs:build": "vuepress build build/docs",
+    "docs:dev": "vuepress dev build/docs",
+    "deploy": "node bin.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47",
+    "github-webhook-handler": "^0.7.1",
+    "shelljs": "^0.8.3",
+    "vuepress": "^1.0.0-alpha.40",
+    "vuepress-theme-x": "^1.2.0"
+  }
+}
