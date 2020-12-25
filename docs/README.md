@@ -12,7 +12,7 @@ home: false
 
 <div style="height:1px;"></div>
 
-<p align="center"><img align="center" width="60" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"/></p>
+<p align="center"><img align="center" width="80" src="https://ss0.baidu.com/6ON1bjeh1BF3odCf/it/u=1672527382,1665984304&fm=15&gp=0.jpg"/></p>
 
 <div style="height:0px;"></div>
 
