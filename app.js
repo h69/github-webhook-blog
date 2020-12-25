@@ -1,5 +1,5 @@
 const http = require('http')
-const handler = require('github-webhook-handler')({ path: '/', secret: '123456' })
+const handler = require('github-webhook-handler')({ path: '/', secret: '' })
 const deploy = require('./deploy')
 
 http.createServer((req, res) => {
