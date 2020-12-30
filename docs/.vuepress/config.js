@@ -18,6 +18,7 @@ module.exports = {
   head: [
     ["meta", { name: "baidu-site-verification", content: "code-FacPXl4enQ" }],
     ["script", { type: "text/javascript", src: "/assets/js/push.js" }],
+    ["script", { type: "text/javascript", src: "/assets/js/hm.js" }],
     ["link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" }], 
   ],
 };
