@@ -3,7 +3,7 @@ module.exports = {
   theme: "x",
   themeConfig: {
     editLinkText: "编辑",
-    editLinks: true,
+    editLinks: false,
     repo: "h69/blog",
     search: true,
     nav: [
