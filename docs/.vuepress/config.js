@@ -7,12 +7,7 @@ module.exports = {
     editLinks: false,
     repo: "h69/blog",
     search: true,
-    nav: [
-      {
-        text: "github",
-        link: "https://github.com/h69",
-      },
-    ],
+    nav: [],
     sidebar: {},
   },
   plugins: ["@vuepress/back-to-top"],
