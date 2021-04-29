@@ -52,9 +52,10 @@ function deploy() {
   cd(`dist`)
 
   exec('git init')
+  exec(`git checkout -b gh-pages`)
   exec('git add .')
   exec('git commit -m "deploy"')
-  exec(`git push -f git@github.com:${USERNAME}/${USERNAME}.github.io.git master`)
+  exec(`git push -f git@github.com:${USERNAME}/${BLOG_REPO}.git gh-pages`)
 
   cd('..')
   cd('..')
