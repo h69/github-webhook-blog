@@ -1,5 +1,5 @@
 # github-webhook-blog
 
-GitHub webhook for blog.
+GitHub webhook for [blog](https://github.com/h69/blog).
 
-[blog](https://github.com/h69/blog) -- github-webhook-blog --> [h69.github.io](https://github.com/h69/h69.github.io)
+[master](https://github.com/h69/blog/tree/master) -- github-webhook-blog --> [gh-pages](https://github.com/h69/blog/tree/gh-pages)
