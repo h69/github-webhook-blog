@@ -1,6 +1,6 @@
 module.exports = {
-  base: "/blog/",
-  title: "黄宝权",
+  base: "/",
+  title: " ",
   theme: "x",
   themeConfig: {
     editLinkText: "编辑",
